@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: aria
+  - section_id: arial
     type: section_hero
     title: 'Hola, soy Daniela Rolon y soy community manger'
     content: >
