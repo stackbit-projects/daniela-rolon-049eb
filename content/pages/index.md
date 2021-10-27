@@ -80,7 +80,7 @@ sections:
     actions:
       - label: View Blog
         url: blog
-        style: link
+        style: button
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
